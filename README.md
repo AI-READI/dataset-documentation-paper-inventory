@@ -1,7 +1,7 @@
 # Dataset documentation for AI paper inventory
 
 ## About
-This repository is meant to keep an inventory of all the resources associated with the our paper where anlyzed various dataset documentation approaches for developing AI models responsibly.
+This repository is meant to keep an inventory of all the resources associated with the our paper where we analyzed various dataset documentation approaches that can help with the responsible development of AI models.
 
 <table>
 <thead>
@@ -24,7 +24,7 @@ This repository is meant to keep an inventory of all the resources associated wi
   </tr>
   <tr>
     <td> Code </td>
-    <td> Coming soon </td>
+    <td> https://doi.org/10.5281/zenodo.14583673 </td>
     <td> https://github.com/AI-READI/dataset-documentation-paper-code </td>
   </tr>
 </tbody>
